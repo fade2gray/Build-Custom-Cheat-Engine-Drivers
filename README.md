@@ -1,4 +1,4 @@
-# Setup Guide for Building Custom Cheat Engine Drivers
+# Guide for Building Custom Cheat Engine Drivers
 
 ## ✅ 1. Download Visual Studio 2019 Community Edition
 
