@@ -17,10 +17,10 @@
 
 ## ✅ 2. Download Windows Driver Kit for Windows 10, version 2004 (WDK 10.0.19041.0)
 
-- Visit: https://docs.microsoft.com/en-gb/windows-hardware/drivers/other-wdk-downloads/
-- Scroll to "WDK for Windows 10, version 2004 (WDK 10.0.19041.0)"
+- ~~Visit: https://docs.microsoft.com/en-gb/windows-hardware/drivers/other-wdk-downloads/~~
+- ~~Scroll to "WDK for Windows 10, version 2004 (WDK 10.0.19041.0)"~~
 - Download:
-  - WDK setup installer
+  - WDK setup installer **(The above download source is depricataed, use this link instead - https://go.microsoft.com/fwlink/?linkid=2128854)**
   - Windows 10 SDK (if prompted)
 
 > Note: Ensure SDK and WDK versions match (10.0.19041.0) for compatibility.
