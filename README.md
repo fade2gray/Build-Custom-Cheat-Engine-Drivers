@@ -20,7 +20,7 @@
 - ~~Visit: https://docs.microsoft.com/en-gb/windows-hardware/drivers/other-wdk-downloads/~~
 - ~~Scroll to "WDK for Windows 10, version 2004 (WDK 10.0.19041.0)"~~
 - Download:
-  - WDK setup installer **(The above download source is depricataed, use this link instead - https://go.microsoft.com/fwlink/?linkid=2128854)**
+  - WDK setup installer **(the above source is depricataed, use this - https://go.microsoft.com/fwlink/?linkid=2128854)**
   - Windows 10 SDK (if prompted)
 
 > Note: Ensure SDK and WDK versions match (10.0.19041.0) for compatibility.
@@ -29,8 +29,7 @@
 
 ## ✅ 3. Download `VS2019_setup.vsconfig`
 
-- Download the configuration file to pre-select required components for building CE drivers.
-- [Link to be provided]
+- Download the configuration file from the source (used to pre-select required components for building CE drivers).
 - Save it to a convenient location.
 
 ---
